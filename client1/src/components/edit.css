@@ -1,0 +1,13 @@
+.update_btn{
+    margin-left: 90px;
+}
+.update_btn button{
+    border-radius: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.editback{
+    background-color: aquamarine;
+    height: 90vh;
+    border-radius: 20px;
+}
